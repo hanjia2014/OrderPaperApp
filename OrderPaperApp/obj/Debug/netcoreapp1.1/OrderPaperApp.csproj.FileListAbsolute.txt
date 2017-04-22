@@ -1,0 +1,9 @@
+c:\Projects\OrderPaperApp\OrderPaperApp\bin\Debug\netcoreapp1.1\OrderPaperApp.deps.json
+c:\Projects\OrderPaperApp\OrderPaperApp\bin\Debug\netcoreapp1.1\OrderPaperApp.runtimeconfig.json
+c:\Projects\OrderPaperApp\OrderPaperApp\bin\Debug\netcoreapp1.1\OrderPaperApp.runtimeconfig.dev.json
+c:\Projects\OrderPaperApp\OrderPaperApp\obj\Debug\netcoreapp1.1\OrderPaperApp.csprojResolveAssemblyReference.cache
+c:\Projects\OrderPaperApp\OrderPaperApp\obj\Debug\netcoreapp1.1\OrderPaperApp.AssemblyInfo.cs
+c:\Projects\OrderPaperApp\OrderPaperApp\bin\Debug\netcoreapp1.1\OrderPaperApp.dll
+c:\Projects\OrderPaperApp\OrderPaperApp\bin\Debug\netcoreapp1.1\OrderPaperApp.pdb
+c:\Projects\OrderPaperApp\OrderPaperApp\obj\Debug\netcoreapp1.1\OrderPaperApp.dll
+c:\Projects\OrderPaperApp\OrderPaperApp\obj\Debug\netcoreapp1.1\OrderPaperApp.pdb
